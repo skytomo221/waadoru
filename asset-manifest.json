@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/waadoru/static/css/main.36f3eddb.css",
-    "main.js": "/waadoru/static/js/main.f4f29f82.js",
+    "main.css": "/waadoru/static/css/main.8aed145d.css",
+    "main.js": "/waadoru/static/js/main.4c52c5a2.js",
     "index.html": "/waadoru/index.html",
-    "main.36f3eddb.css.map": "/waadoru/static/css/main.36f3eddb.css.map",
-    "main.f4f29f82.js.map": "/waadoru/static/js/main.f4f29f82.js.map"
+    "main.8aed145d.css.map": "/waadoru/static/css/main.8aed145d.css.map",
+    "main.4c52c5a2.js.map": "/waadoru/static/js/main.4c52c5a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.36f3eddb.css",
-    "static/js/main.f4f29f82.js"
+    "static/css/main.8aed145d.css",
+    "static/js/main.4c52c5a2.js"
   ]
 }
